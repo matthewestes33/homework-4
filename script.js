@@ -6,7 +6,7 @@ var questionsArray = [
         answer: "Cascading Style Sheets"
     },
     {
-        question: "What year as JavaScript invented?",
+        question: "What year was JavaScript invented?",
         choices: ["1995", "1999", "2000", "2021"],
         answer: "1995"
     },
