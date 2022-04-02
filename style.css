@@ -1,3 +1,9 @@
+* {
+    font-size: 24px;
+    color: black;
+    font-family: "Arial", sans-serif;    
+}
+
 .hide {
     display: none;
     
